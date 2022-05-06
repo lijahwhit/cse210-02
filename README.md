@@ -1,10 +1,16 @@
-Overview
+# Title: Hilo Game - W03 Prepare: Articulate
+
+# Authors:
+
+# Class: CSE 210 Programming with Classes
+
+Hilo Python Game README
+
+Overview:
 
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
 
-Rules
-
-Hilo is played according to the following rules.
+Hilo is played according to the following rules:
 
 The player starts the game with 300 points.
 Individual cards are represented as a number from 1 to 13.
