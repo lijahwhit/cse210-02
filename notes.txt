@@ -1,2 +1,26 @@
 
 
+DESIGN DOCUMENT:
+
+We decided to have a main function that creates an instance of a "Hilo" class.
+Within the Hilo class there are methods that start the game, and control the game logic in a loop.
+It will create an instance of "Card" class, and call it's randomize method to get a random number to use in game.
+
+Classes:
+
+Hilo
+attributes:
+instance of card
+score
+methods:
+
+- start game
+
+Card
+attributes: number
+methods:
+
+- randomize card
+
+Other Methods:
+Main
