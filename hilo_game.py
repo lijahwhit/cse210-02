@@ -1,5 +1,5 @@
 # Title: Hilo Game - W03 Prepare: Articulate
-# Authors:
+# Authors: Elijah Whitchurch
 # Class: CSE 210 Programming with Classes
 
 
